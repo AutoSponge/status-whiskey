@@ -1,100 +1,100 @@
 codes:
   - code: 100
     label: Continue
-    img: http://i.imgur.com/j5iNeD1.jpg
+    img: http://i.imgur.com/j5iNeD1m.jpg
   - code: 200
     label: OK
-    img: http://i.imgur.com/qZxGv4k.jpg
+    img: http://i.imgur.com/qZxGv4km.jpg
   - code: 201
     label: Created
-    img: http://i.imgur.com/CLWyZiI.jpg
+    img: http://i.imgur.com/CLWyZiIm.jpg
   - code: 202
     label: Accepted
-    img: http://i.imgur.com/SGPFp4f.jpg
+    img: http://i.imgur.com/SGPFp4fm.jpg
   - code: 203
     label: Non-authoritative Information
-    img: http://i.imgur.com/6j7XUJN.jpg
+    img: http://i.imgur.com/6j7XUJNm.jpg
   - code: 204
     label: No Content
-    img: http://i.imgur.com/lg1j4JD.jpg
+    img: http://i.imgur.com/lg1j4JDm.jpg
   - code: 206
     label: Partial Content
-    img: http://i.imgur.com/Za99ZOU.jpg
+    img: http://i.imgur.com/Za99ZOUm.jpg
   - code: 207
     label: Multi-Status
-    img: http://i.imgur.com/MY6JQOx.jpg
+    img: http://i.imgur.com/MY6JQOxm.jpg
   - code: 208
     label: Already Reported
-    img: http://i.imgur.com/YIGV5Qy.jpg
+    img: http://i.imgur.com/YIGV5Qym.jpg
   - code: 300
     label: Multiple Choices
-    img: http://scontent-b.cdninstagram.com/hphotos-xap1/outbound-distilleryimage4/t0.0-17/OBPTH/7e7746dcd83911e28bc322000a9d0dcb_7.jpg
+    img: 
   - code: 301
     label: Moved Permanently
-    img: http://i.imgur.com/HWhG3ov.jpg
+    img: http://i.imgur.com/HWhG3ovm.jpg
   - code: 302
     label: Found
-    img: http://i.imgur.com/hE5QMCi.jpg
+    img: http://i.imgur.com/hE5QMCim.jpg
   - code: 303
     label: See Other
-    img: http://i.imgur.com/9q4HV2O.jpg
+    img: http://i.imgur.com/9q4HV2Om.jpg
   - code: 304
     label: Not Modified
-    img: http://i.imgur.com/PXsN2Hg.jpg
+    img: http://i.imgur.com/PXsN2Hgm.jpg
   - code: 305
     label: Use Proxy
-    img: http://i.imgur.com/yhBHgfe.jpg
+    img: http://i.imgur.com/yhBHgfem.jpg
   - code: 306
     label: Switch Proxy
     img:
   - code: 307
     label: Temporary Redirect
-    img: http://i.imgur.com/mcJoUMU.jpg?1
+    img: http://i.imgur.com/mcJoUMUm.jpg?1
   - code: 308
     label: Permanent Redirect
-    img: http://i.imgur.com/0nAna6G.jpg
+    img: http://i.imgur.com/0nAna6Gm.jpg
   - code: 400
     label: Bad Request
     img:
   - code: 401
     label: Unauthorized
-    img: http://i.imgur.com/0IvzT.jpg?1
+    img: http://i.imgur.com/0IvzTm.jpg?1
   - code: 402
     label: Payment Required
-    img: http://i.imgur.com/GBEDK.jpg
+    img: http://i.imgur.com/GBEDKm.jpg
   - code: 403
     label: Forbidden
-    img: http://i.imgur.com/CLNBoHo.jpg
+    img: http://i.imgur.com/CLNBoHom.jpg
   - code: 404
     label: Not Found
-    img: http://i.imgur.com/Qg4EeyB.jpg
+    img: http://i.imgur.com/Qg4EeyBm.jpg
   - code: 405
     label: Method Not Allowed
-    img: http://i.imgur.com/edfyc0s.jpg
+    img: http://i.imgur.com/edfyc0sm.jpg
   - code: 406
     label: Not Acceptable
-    img: http://i.imgur.com/TDebtrp.jpg
+    img: http://i.imgur.com/TDebtrpm.jpg
   - code: 407
     label: Proxy Authentication Required
-    img: http://i.imgur.com/Tf0UfYP.jpg
+    img: http://i.imgur.com/Tf0UfYPm.jpg
   - code: 408
     label: Request Timeout
-    img: http://i.imgur.com/SsaJAxK.jpg
+    img: http://i.imgur.com/SsaJAxKm.jpg
   - code: 409
     label: Conflict
     img:
   - code: 410
     label: Gone
-    img: http://i.imgur.com/FJOf6hi.jpg
+    img: http://i.imgur.com/FJOf6him.jpg
   - code: 411
     label: Length Required
-    img: http://i.imgur.com/PXgjXRc.jpg
+    img: http://i.imgur.com/PXgjXRcm.jpg
   - code: 412
     label: Precondition Failed
-    img: http://i.imgur.com/DPWupeL.jpg
+    img: http://i.imgur.com/DPWupeLm.jpg
   - code: 413
     label: Request Entity Too Large
-    img: http://i.imgur.com/4JZCUn1.jpg
+    img: http://i.imgur.com/4JZCUn1m.jpg
   - code: 414
     label: Request-URI Too Long
     img:
@@ -103,7 +103,7 @@ codes:
     img:
   - code: 417
     label: Expectation Failed
-    img: http://i.imgur.com/C4a7LIP.jpg
+    img: http://i.imgur.com/C4a7LIPm.jpg
   - code: 418
     label: I'm a teapot
     img:
@@ -112,19 +112,19 @@ codes:
     img:
   - code: 423
     label: Locked
-    img: http://i.imgur.com/4dkBR48.jpg
+    img: http://i.imgur.com/4dkBR48m.jpg
   - code: 424
     label: Failed Dependency
     img:
   - code: 425
     label: Unordered Collection
-    img: http://i.imgur.com/5UffXSK.jpg
+    img: http://i.imgur.com/5UffXSKm.jpg
   - code: 426
     label: Upgrade Required
-    img: http://i.imgur.com/ZKGTGHz.jpg
+    img: http://i.imgur.com/ZKGTGHzm.jpg
   - code: 429
     label: Too Many Requests
-    img: http://i.imgur.com/PEtjlrq.jpg
+    img: http://i.imgur.com/PEtjlrqm.jpg
   - code: 431
     label: Request Header Fields Too Large
     img:
@@ -136,31 +136,31 @@ codes:
     img: http://i.imgur.com/5XCJC.png
   - code: 451
     label: Unavailable For Legal Reasons
-    img: http://i.imgur.com/Bm49q3o.jpg
+    img: http://i.imgur.com/Bm49q3om.jpg
   - code: 494
     label: Request Header Too Large
-    img: http://i.imgur.com/2khOk.jpg
+    img: http://i.imgur.com/2khOkm.jpg
   - code: 500
     label: Internal Server Error
-    img: http://i.imgur.com/fhlWOKm.jpg
+    img: http://i.imgur.com/fhlWOKmm.jpg
   - code: 501
     label: Not Implemented
-    img: http://i.imgur.com/5NABKqL.jpg
+    img: http://i.imgur.com/5NABKqLm.jpg
   - code: 502
     label: Bad Gateway
-    img: http://i.imgur.com/G1Ig7SR.jpg
+    img: http://i.imgur.com/G1Ig7SRm.jpg
   - code: 503
     label: Service Unavailable
-    img: http://i.imgur.com/N0FHTZX.jpg
+    img: http://i.imgur.com/N0FHTZXm.jpg
   - code: 504
     label: Gateway Timeout
     img:
   - code: 506
     label: Variant Also Negotiates
-    img: http://i.imgur.com/LwxIQL3.jpg
+    img: http://i.imgur.com/LwxIQL3m.jpg
   - code: 507
     label: Insufficient Storage
-    img: http://i.imgur.com/Ci5Dj1p.jpg
+    img: http://i.imgur.com/Ci5Dj1pm.jpg
   - code: 508
     label: Loop Detected
     img: http://i.imgur.com/TZtYqH6.gif
